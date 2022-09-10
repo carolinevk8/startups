@@ -6,7 +6,7 @@ const Home = ()=>{
       <div className="bg-black z-10">
         
         
-        <div className="bg-black rounded-xl sm:mx-20 mx-5 py-20 sm:mb-32 mb-16">
+        <div className="bg-black rounded-xl sm:mx-20 mx-5 py-5 sm:py-16 sm:mb-32 mb-16">
         <h1 className="sm:text-6xl text-4xl font-medium text-left text-white sm:pl-28">Get smarter about Indian Startups.</h1>
        
 
