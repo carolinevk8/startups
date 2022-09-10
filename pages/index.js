@@ -13,7 +13,7 @@ const Home = ()=>{
         <div className="grid sm:grid-cols-2 text-white text-3xl grid-cols-1 gap-x-5 py-8 gap-y-5 z-0">
         <div className="bg-gradient-to-r from-cyan-500 via-teal-500 to-teal-400 text-center rounded-3xl py-24"> Startup Rankings </div>
         <div className="bg-gradient-to-r from-indigo-700 via-blue-700 to-blue-600 text-center rounded-3xl py-24"> Startup Jobs</div>
-        <div className="bg-white text-center  bg-zinc-900 rounded-3xl py-24"> Launch Your Startup </div>
+        <div className="bg-white text-center  bg-zinc-900 rounded-3xl py-24">Launch Your Startup </div>
 
         </div>
 
