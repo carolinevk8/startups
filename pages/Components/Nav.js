@@ -4,7 +4,7 @@ import Link from "next/link";
 const Nav = ()=>{
 
   return(
-    <div  className="bg-black py-3">
+    <div  className="bg-black py-3 z-zuto opacity-95">
       <span className="m-8">
       <Image className="p-4" alt="addify dark logo" width={170} height={52} src="/addifystartups.png" />
       </span>
